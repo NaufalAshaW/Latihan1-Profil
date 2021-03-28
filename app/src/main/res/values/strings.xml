@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">Naufal Asha</string>
+    <string name="nim">10118063</string>
+    <string name="kelas">IF2/S1/VI</string>
+    <string name="jk">Laki-laki</string>
+    <string name="ttl">Bandung, 8 September 1998</string>
+    <string name="alamat">Bandung Indah Raya, Kota Bandung, Jawa Barat</string>
+    <string name="golongan">O</string>
+    <string name="makanan">"??"</string>
+    <string name="minuman">Kopi</string>
+    <string name="hobi">"??"</string>
+    <string name="film">Arrival</string>
+    <string name="lagu">MONO - Elysian Castles</string>
+    <string name="pekerjaan">"???"</string>
+
+    <!-- Labels -->
+    <string name="label_jk">Jenis Kelamin</string>
+    <string name="label_golongan">Golongan Darah</string>
+    <string name="label_hobi">Hobi</string>
+    <string name="label_ttl">Tempat, Tanggal Lahir</string>
+    <string name="label_alamat">Alamat</string>
+    <string name="label_pekerjaan">Pekerjaan yang Diinginkan</string>
+    <string name="label_film">Film Favorit</string>
+    <string name="label_lagu">Lagu Favorit</string>
+    <string name="label_makanan">Makanan Kesukaan</string>
+    <string name="label_minuman">Minuman Kesukaan</string>
+
+
+</resources>
