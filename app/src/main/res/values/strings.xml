@@ -7,12 +7,12 @@
     <string name="ttl">Bandung, 8 September 1998</string>
     <string name="alamat">Bandung Indah Raya, Kota Bandung, Jawa Barat</string>
     <string name="golongan">O</string>
-    <string name="makanan">"??"</string>
+    <string name="makanan">Ikan</string>
     <string name="minuman">Kopi</string>
-    <string name="hobi">"??"</string>
+    <string name="hobi">"Model Kit"</string>
     <string name="film">Arrival</string>
     <string name="lagu">MONO - Elysian Castles</string>
-    <string name="pekerjaan">"???"</string>
+    <string name="pekerjaan">Full Stack Developer</string>
 
     <!-- Labels -->
     <string name="label_jk">Jenis Kelamin</string>
